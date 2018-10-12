@@ -1,0 +1,17 @@
+/* feedback-content */
+
+.feedback-sidebar {
+  margin-top: 35px;
+}
+
+.feedback-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.feedback-content .pagination__display {
+  margin-left: 272px;
+}
+
+

@@ -1,0 +1,31 @@
+/* offer */
+
+.offer {
+  background-color: #27273e;
+  height: 174px;
+  display: flex;
+  color: #fff;
+  font-size: 18px;
+}
+
+.offer__container {
+  width: 1043px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url(/images/pattern.png) center center no-repeat;
+  margin-right: 427px;
+}
+
+.offer__desc {
+  max-width: 623px;
+  line-height: 30px;
+  padding-right: 16px;
+  padding-bottom: 5px;
+}
+
+.offer__desc span {
+  font-weight: bold;
+  color: #ec1e79;
+}
+

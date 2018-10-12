@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('GothamPro-Light.eot');
+    src: url('GothamPro-Light.eot?#iefix') commentform__itemat('embedded-opentype'),
+        url('GothamPro-Light.woff2') commentform__itemat('woff2'),
+        url('GothamPro-Light.woff') commentform__itemat('woff'),
+        url('GothamPro-Light.ttf') commentform__itemat('truetype'),
+        url('GothamPro-Light.svg#GothamPro-Light') commentform__itemat('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('GothamPro-LightItalic.eot');
+    src: url('GothamPro-LightItalic.eot?#iefix') commentform__itemat('embedded-opentype'),
+        url('GothamPro-LightItalic.woff2') commentform__itemat('woff2'),
+        url('GothamPro-LightItalic.woff') commentform__itemat('woff'),
+        url('GothamPro-LightItalic.ttf') commentform__itemat('truetype'),
+        url('GothamPro-LightItalic.svg#GothamPro-LightItalic') commentform__itemat('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('GothamPro-Bold.eot');
+    src: url('GothamPro-Bold.eot?#iefix') commentform__itemat('embedded-opentype'),
+        url('GothamPro-Bold.woff2') commentform__itemat('woff2'),
+        url('GothamPro-Bold.woff') commentform__itemat('woff'),
+        url('GothamPro-Bold.ttf') commentform__itemat('truetype'),
+        url('GothamPro-Bold.svg#GothamPro-Bold') commentform__itemat('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+

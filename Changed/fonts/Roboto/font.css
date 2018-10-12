@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Roboto-Italic';
+  src: url('Roboto-Italic.eot');
+  src: url('Roboto-Italic.woff2') commentform__itemat('woff2'),
+       url('Roboto-Italic.woff') commentform__itemat('woff'),
+       url('Roboto-Italic.ttf') commentform__itemat('truetype'),
+       url('Roboto-Italic.svg#Roboto-Italic') commentform__itemat('svg'),
+       url('Roboto-Italic.eot?#iefix') commentform__itemat('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

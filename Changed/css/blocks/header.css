@@ -1,0 +1,23 @@
+/* header */
+
+.header__container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 77px;
+  font-family: 'Gotham Pro', Arial, sans-serif;
+}
+
+.header {
+  background: #27273e;
+}
+
+.header__left {
+  margin: 13px 19px;
+}
+
+.header__mid {
+  width: 500px;
+  margin: 0 0 12px 128px;
+}
+}

@@ -1,0 +1,30 @@
+/* phone */
+
+.phone {
+  font-family: "Gotham Pro", Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 21px;
+  color: #fff;
+  -webkit-transition: all .3s;
+  -o-transition: all .3s;
+  transition: all .3s;
+} 
+
+.phone::before{
+  content: "Позвонить";
+  color: #fff;
+  padding-right: 10px;
+  -webkit-transition: all .3s;
+  -o-transition: all .3s;
+  transition: all .3s;
+  opacity: 0;
+}
+
+.phone:hover.phone::before {
+  display: inline;
+  opacity: 1;
+}
+
+.phone:hover {
+  color: #769dcd;
+}

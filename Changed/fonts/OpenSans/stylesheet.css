@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'open_sansbold';
+    src: url('OpenSans-Bold-webfont.eot');
+    src: url('OpenSans-Bold-webfont.eot?#iefix') commentform__itemat('embedded-opentype'),
+         url('OpenSans-Bold-webfont.woff2') commentform__itemat('woff2'),
+         url('OpenSans-Bold-webfont.woff') commentform__itemat('woff'),
+         url('OpenSans-Bold-webfont.ttf') commentform__itemat('truetype'),
+         url('OpenSans-Bold-webfont.svg#open_sansbold') commentform__itemat('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

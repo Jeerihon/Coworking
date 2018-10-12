@@ -1,0 +1,13 @@
+.copyright {
+  margin: 0 0 0 20px;
+  width: 270px;
+  padding-top:  9px;
+  line-height: 18px;
+}
+
+.copyright__loftschool {
+  text-decoration: underline;
+  text-decoration-color: #5d5d6e;
+  font-weight: bold;
+  color: #fff;
+}

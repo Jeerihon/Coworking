@@ -1,0 +1,37 @@
+/* sprite */
+
+.sprite {
+  background-image: url(/images/spritesheet.png);
+  background-repeat: no-repeat;
+  display: block;
+}
+
+.sprite-1 {
+  width: 12px;
+  height: 7px;
+  background-position: -13px -13px;
+}
+
+.sprite-2 {
+  width: 6px;
+  height: 13px;
+  background-position: -51px -13px;
+}
+
+.sprite-3 {
+  width: 15px;
+  height: 9px;
+  background-position: -83px -13px;
+}
+
+.sprite-4 {
+  width: 11px;
+  height: 9px;
+  background-position: -124px -13px;
+}
+
+.sprite-5 {
+  width: 12px;
+  height: 9px;
+  background-position: -161px -13px;
+}

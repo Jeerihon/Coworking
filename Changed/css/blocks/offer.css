@@ -1,0 +1,38 @@
+/* offer */
+
+.offer {
+  box-sizing: border-box;
+  background-color: #27273e;
+  width: 91%;
+  display: flex;
+  color: #fff;
+  font-size: 18px;
+  margin: 49px 0 0 12px;
+}
+
+.offer__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url(/images/pattern.png) -130px 7px no-repeat;
+  padding: 22px 8px 28px;
+}
+
+.offer__desc {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  line-height: 30px;
+  display: flex;
+}
+
+.offer__desc p {
+  height: 100%;
+  display: block;
+}
+
+.offer__desc span {
+  font-weight: bold;
+  color: #ec1e79;
+}
+

@@ -1,0 +1,12 @@
+/* prices */
+
+.prices-sidebar {
+  margin-top: 38px;
+}
+
+.prices-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+}

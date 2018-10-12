@@ -1,0 +1,32 @@
+/* social */
+
+.social__text {
+  font-weight: bold;
+  line-height: 18px;
+}
+
+.social__section {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  width: 140px;
+  margin: 7px 0 0 0;
+  padding: 0;
+}
+
+.social__item {
+  width: 18px;
+  height: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #d4d4d8;
+  border-radius: 50%;
+  background-color: #d4d4d8;
+  transition: all .2s;
+}
+
+.social__item:hover{
+  border-color: #ec1e79;
+  background-color: #ec1e79;
+}
