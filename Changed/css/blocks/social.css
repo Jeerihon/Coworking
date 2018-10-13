@@ -30,4 +30,5 @@
 .social__item:hover{
   border-color: #ec1e79;
   background-color: #ec1e79;
+  cursor: pointer;
 }

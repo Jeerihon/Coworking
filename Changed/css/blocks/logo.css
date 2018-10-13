@@ -4,3 +4,7 @@
   height: 51px;
   width: 99px;
 }
+
+.logo__img:hover {
+  transform: scale(1.1);
+}

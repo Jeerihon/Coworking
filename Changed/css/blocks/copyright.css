@@ -5,9 +5,16 @@
   line-height: 18px;
 }
 
-.copyright__loftschool {
+.copyright__link {
   text-decoration: underline;
   text-decoration-color: #5d5d6e;
   font-weight: bold;
   color: #fff;
+  transition: all .2s;
+  -webkit-transition: all .2s;
+}
+
+.copyright__link:hover {
+  color: #ec1e79;
+  text-decoration: none;
 }

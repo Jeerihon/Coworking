@@ -1,6 +1,5 @@
 /* pagination */
 
-
 .pagination {
   font-family: "Gotham Pro", Arial, sans-serif;
   font-size: 14px;
@@ -47,6 +46,10 @@
   opacity: .3;
 }
 
+.disabled-arrow:hover .pagination-link:hover {
+  cursor: default;
+}
+
 .pagination-link {
   color: #221f1f;
 }
@@ -55,12 +58,23 @@
   color: #fff;
 }
 
-.pagination-link:hover{
+.pagination-link:hover {
   color: #ec1e79;
-} 
+}
 
 .pagination-item.active:hover .pagination-link:hover {
   color: #fff;
   cursor: default;
 }
 
+.pagination__endbr {
+  background-image: url(/images/spritesheet-bracket.png);
+  background-repeat: no-repeat;
+  width: 6px;
+  height: 10px;
+  background-position: -13px -13px;
+}
+
+.pagination__endbr:hover {
+  background-position: -45px -13px;
+}
