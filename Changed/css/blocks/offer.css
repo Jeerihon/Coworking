@@ -16,6 +16,7 @@
   align-items: center;
   background: url(/images/pattern.png) -130px 7px no-repeat;
   padding: 22px 8px 28px;
+  cursor: default;
 }
 
 .offer__desc {
